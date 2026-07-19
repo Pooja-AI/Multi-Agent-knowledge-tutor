@@ -1134,8 +1134,10 @@ export default function App() {
     <div style={{
       display: "flex", flexDirection: "column",
       height: "100vh", fontFamily: "var(--font-sans, system-ui, sans-serif)",
+    //   background: "var(--color-background-tertiary, radial-gradient(circle at top, #0f172a, #020617);)",
       background: "var(--color-background-tertiary, radial-gradient(circle at top, #0f172a, #020617);)",
-      color: "var(--color-text-primary)",
+      
+    color: "var(--color-text-primary)",
     }}>
       <Header />
       <div style={{ display: "flex", flex: 1, overflow: "hidden" }}>
