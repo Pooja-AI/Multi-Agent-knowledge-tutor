@@ -1,9 +1,9 @@
 {
   "name": "multi-agent-knowledge-tutor",
-   "private": true,
+  "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://pooja-ai.github.io/rag-knowledge-tutor",
+  "homepage": "https://pooja-ai.github.io/Multi-Agent-knowledge-tutor",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
